@@ -3,7 +3,7 @@ package Programa;
 public class Programa {
 
 	public static void main(String[] args) {
-	System.out.println("inicio");
+	System.out.println("inici");
 
 	}
 
