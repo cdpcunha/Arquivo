@@ -8,7 +8,7 @@ public class TryWithResources {
 
 	public static void main(String[] args) {
 		String filePath = "E:\\JavaTemp\\BuffRead.txt";
-				
+			
 		try (BufferedReader br = new BufferedReader(new FileReader(filePath))){
 			
 			String line = br.readLine();
